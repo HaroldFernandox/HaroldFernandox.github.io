@@ -1,0 +1,24 @@
+html{
+    background-color: rgb(131, 244, 191);
+   
+    font:1.2em consolas;
+    --webkit-border: radius 20px;
+    --moz-border: radius 20px;
+    --o-border: radius 20px;
+    --ms-border: radius 20px;
+    padding: 20%;
+ }
+ 
+ body{
+  align-items: center;
+  display: inline;
+
+ }
+
+ form{
+position: relative;
+   
+ }
+ .registro{
+    padding-inline: 10%;
+ }
