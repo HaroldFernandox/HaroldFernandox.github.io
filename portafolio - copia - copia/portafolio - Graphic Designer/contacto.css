@@ -1,0 +1,26 @@
+html{
+    background-color: rgba(254, 254, 254, 0.986);
+    font:1.2em consolas;
+    --webkit-border: radius 20px;
+    --moz-border: radius 20px;
+    --o-border: radius 20px;
+    --ms-border: radius 20px;
+ }
+
+
+
+
+#video{
+    border-radius: 80px;
+    padding: 2%;
+    
+
+}
+ 
+.container{
+    background-color: rgb(235, 119, 11);
+    border-radius:30px;
+    justify-content: center;
+    align-items: center;  
+    padding:10%;
+}

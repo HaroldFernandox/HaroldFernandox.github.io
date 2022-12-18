@@ -1,0 +1,36 @@
+html{
+    height: 100%;
+    width: 100%;
+    background:linear-gradient(rgb(103,132,193),rgb(221,12,12));
+}
+img{
+    width: max-content;
+}
+body{
+    background:linear-gradient(rgb(103,132,193),rgb(221,12,12));
+    padding:10%;
+
+    
+}
+.caja1{
+    padding:5%;
+    color: rgba(255, 242, 0, 0.955);    
+    text-transform: uppercase;
+    float: left;
+    width: 50%;
+}
+.caja{
+    padding:5%;
+    color:rgba(255, 242, 0, 0.955);    
+    text-transform: uppercase;
+    float: left;
+    width: 50%;
+}
+iframe{
+background-color:rgb(207, 18, 18);
+width: max-content;
+padding:3%;
+width:100%; 
+height:700px;
+mask-border: 0;
+}

@@ -1,0 +1,126 @@
+html{
+    font:1.2em consolas;
+    --webkit-border: radius 20px;
+    --moz-border: radius 20px;
+    --o-border: radius 20px;
+    --ms-border: radius 20px;
+}
+
+
+img{ 
+    max-width:100%;
+    border-radius: 50px;
+}
+li{
+    list-style: none;
+}
+
+
+/*todo esto es el nav*/
+
+.foto1{
+
+    background:linear-gradient(rgb(244, 247, 255),rgb(124, 121, 121));
+    border-radius: 45%;
+}
+.navbar{
+    background-color: black;
+} 
+
+
+/*todo esto es el nav*/
+
+
+
+
+
+
+/*todo esto es para la presentacion*/
+.articulo{padding: 5%;}
+
+.foto{
+    border-radius: 50px;
+    max-width: max-content;
+    background:linear-gradient(rgb(2, 2, 2),rgb(124, 121, 121));
+    float:left;
+    width:50%;
+}
+
+.presentacion{
+    border: solid rgb(0, 0, 0);
+    padding: 15px;
+    background-color: rgb(80,82,85);
+    border-radius: 15px;
+    float: left;
+    width: 50%;
+}
+/*todo esto es para la presentacion*/
+
+
+
+/*todo esto es para lo que hare*/
+.desarrolloweb{
+
+    color: rgb(255, 255, 255);
+}
+
+.frontend{
+    padding:3%;
+    border: solid;
+    border-radius: 15px;
+    display:flexbox;
+    align-items:center;
+    background:linear-gradient(rgb(2, 2, 2),rgb(124, 121, 121));
+    width: 340px;
+    float: left;
+}
+a{
+    padding: 3%;
+}
+
+.bajada{
+position:static;
+
+}
+/*todo esto es para lo que hare*/
+
+
+
+
+
+
+/*esto es para las certificaciones*/
+
+
+.container{
+    width: auto;
+    height:auto;
+    border-radius: 15px;
+    background-color: rgb(124,121,121);
+    padding: 3%;
+}
+#b1{background-color: rgb(0, 0, 0);}
+
+#b2{background-color: rgba(0, 0, 0, 0.926);}
+/*esto es para las certificaciones*/
+
+
+
+
+/*esto es el footer*/
+.footer{
+height: 100%;
+width: 100%;
+background:linear-gradient(rgb(124,121,121),rgb(153, 120, 38));
+padding: 3%;
+}
+.harold{
+float: left;
+width: 50%.50%;
+padding: 3%;
+}
+.arby{
+    padding-left: 5%;
+width: 100%;
+}
+/*esto es el footer*/
